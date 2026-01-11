@@ -4,8 +4,8 @@
 Animal Subspecies
 
 ## Group Members & Roles
-- Yusuf – Data Engineer
-- Azrul Hakimi – Data Scientist
+- Azrul Hakimi – Data Engineer
+- Ahmad Yusuf – Data Scientist
 - Aiman Rahimi – Data Analyst
 
 ## Models Planned
